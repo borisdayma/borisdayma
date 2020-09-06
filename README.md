@@ -1,6 +1,6 @@
 ### Hi, I'm Boris
 
-🔭 I work on fun Machine Learning projects like [huggingtweets](https://github.com/borisdayma/huggingtweets).
+🔭 I work on fun Machine Learning projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
 
 👯 I love the open source ecosystem and frequently contribute to many projects
 
