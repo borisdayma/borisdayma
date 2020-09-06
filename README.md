@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css"/>
+
 ### Hi, I'm Boris
 
 🔭 I work on fun Machine Learning projects like [huggingtweets](https://github.com/borisdayma/huggingtweets).
