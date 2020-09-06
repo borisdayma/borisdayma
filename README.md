@@ -1,6 +1,6 @@
 ### Hi, I'm Boris
 
-I think that AI and automation in general will contribute to major improvements in any industry and can have a highly positive impact to society.
+I think that AI and automation in general will contribute to major improvements in every industry and can have a highly positive impact to society.
 
 🔭 I try to make AI friendlier and more accessible through articles, improvement of tools/frameworks or just fun little projects like my tweet generator [huggingtweets](https://github.com/borisdayma/huggingtweets) which can be used by anybody.
 
