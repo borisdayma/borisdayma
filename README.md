@@ -18,4 +18,4 @@
 
 I love meeting new people so feel free to reach out!
 
-[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/borisdayma)
+[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/borisdayma)    [![GitHub followers](https://img.shields.io/github/followers/borisdayma?style=social)](https://github.com/borisdayma)
