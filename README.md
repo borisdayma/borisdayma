@@ -4,7 +4,7 @@
 
 🤖 make AI more accessible to humans through articles and fun projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
 
-🙏 active open-source contributor through [Weights & Biases](https://docs.wandb.com/), [Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai) and [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and plenty others
+🙏 active open-source contributor through [Weights & Biases](https://docs.wandb.com/), [Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai), [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and plenty others
 
   ![Boris's github stats](https://github-readme-stats.vercel.app/api?username=borisdayma)
 
