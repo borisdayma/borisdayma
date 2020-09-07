@@ -8,7 +8,7 @@
 
 - Machine learning tooling with [Weights & Biases](https://docs.wandb.com/)
 - AI frameworks like [HuggingFace Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai), [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and many others…
-- anything I use that is public and that I can improve with a fix, a bug report or even just documentation
+- anything I use that is public and that I can improve with a fix, bug report or even just documentation
 
   ![Boris's github stats](https://github-readme-stats.vercel.app/api?username=borisdayma)
 
