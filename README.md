@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css"/>
-
-<article class="prose">
-
 ### Hi, I'm Boris
 
 ❤ I love AI and automation in general. I'm always trying to think of new ways to use it to improve industries, products or processes while benefiting society.
@@ -26,6 +22,4 @@
 
 👋 I love meeting new people so feel free to reach out!
 
-[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/borisdayma)    [![GitHub followers](https://img.shields.io/github/followers/borisdayma?style=social)](https://github.com/borisdayma)
-
-</article>
+[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/borisdayma)    [![GitHub followers](https://img.shields.io/github/followers/borisdayma?style=social)](https://github.com/borisdayma)    <a href="https://www.linkedin.com/in/borisdayma/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
