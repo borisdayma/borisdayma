@@ -4,11 +4,11 @@
 
 🤖 make AI more accessible to humans through articles and fun projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
 
-🙏 active open-source contributor to [Weights & Biases](https://docs.wandb.com/), [Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai), [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and plenty others
+🙏 contributor to [Weights & Biases](https://docs.wandb.com/), [Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai), [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and many others
 
   ![Boris's github stats](https://github-readme-stats.vercel.app/api?username=borisdayma)
 
-💡 currently learning web development with [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/) & [Tailwind](https://tailwindcss.com/) for front end + [AWS Amplify](https://docs.amplify.aws/) for back end
+💡 learning web development with [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/) & [Tailwind](https://tailwindcss.com/) for front end + [AWS Amplify](https://docs.amplify.aws/) for back end
 
 🤫 working on a secret project, too early to release
 
