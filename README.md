@@ -14,4 +14,4 @@
 
 💬 love connecting with people
 
-[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/borisdayma)    [![GitHub followers](https://img.shields.io/github/followers/borisdayma?style=social)](https://github.com/borisdayma)    <a href="https://www.linkedin.com/in/borisdayma/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/intent/follow?screen_name=borisdayma)    [![GitHub followers](https://img.shields.io/github/followers/borisdayma?style=social)](https://github.com/borisdayma)    <a href="https://www.linkedin.com/in/borisdayma/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
