@@ -1,6 +1,6 @@
 ### Hi, I'm Boris
 
-❤ love looking at how AI and automation in general can improve industries
+❤ love researching how to improve industries with AI and automation
 
 🤖 make AI more accessible to humans through articles and fun projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
 
@@ -9,8 +9,6 @@
   ![Boris's github stats](https://github-readme-stats.vercel.app/api?username=borisdayma)
 
 💡 learning web development with [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/) & [Tailwind](https://tailwindcss.com/) for front end + [AWS Amplify](https://docs.amplify.aws/) for back end
-
-🤫 working on a secret project, too early to release
 
 💬 love connecting with people
 
