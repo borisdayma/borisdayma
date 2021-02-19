@@ -1,6 +1,6 @@
 ### Hi, I'm Boris
 
-❤ love researching how to improve industries with AI and automation
+❤ love working on improving processes with AI and automation
 
 🤖 make AI more accessible to humans through articles and fun projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
 
