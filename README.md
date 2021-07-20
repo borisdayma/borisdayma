@@ -2,7 +2,7 @@
 
 ❤ love working on improving processes with AI and automation
 
-🤖 make AI more accessible to humans through articles and fun projects like [huggingtweets](https://github.com/borisdayma/huggingtweets)
+🤖 make AI more accessible to humans through articles and fun projects like [DALL-E mini](https://github.com/borisdayma/dalle-mini) and [HuggingTweets](https://github.com/borisdayma/huggingtweets)
 
 🙏 contributor to [Weights & Biases](https://docs.wandb.com/), [Transformers](https://github.com/huggingface/transformers), [fastai](https://github.com/fastai/fastai), [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) and many others
 
